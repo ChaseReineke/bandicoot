@@ -1,0 +1,14 @@
+{
+    "name": "whoa",
+    "version": "1.0.0",
+    "description": "Collect wumpa fruit and avoid Cortex",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Chase Reineke",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
